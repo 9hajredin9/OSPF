@@ -29,7 +29,7 @@ Poit-to-point - PPP & HDLC <br>
 Non-Broadcast - Frame-relay & X.25 <br>
 
 
-#OSPF States
+# OSPF States
 
 Down - Router is not configured with OSPF <br>
 innit - Interface gets enabled with ospf and sends hello messagess with its ID <br>
